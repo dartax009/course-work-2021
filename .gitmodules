@@ -1,0 +1,6 @@
+[submodule "Meteorological-device"]
+	path = Meteorological-device
+	url = https://github.com/dartax009/Meteorological-device.git
+[submodule "meteorologists"]
+	path = meteorologists
+	url = https://github.com/dartax009/meteorologists.git
